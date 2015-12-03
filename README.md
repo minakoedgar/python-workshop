@@ -1,2 +1,2 @@
 # python-workshop
-This is an intro python workshop for SRO staff.
+This are materials of an intro python workshop for SRO staff.

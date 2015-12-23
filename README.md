@@ -1,6 +1,6 @@
 # University of Michigan SRO Python Workshop
 
-This are materials of an intro python workshop for SRO staff.
+These are materials of an intro python workshop for SRO staff.
 
 # Overview
 
